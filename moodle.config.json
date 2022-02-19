@@ -89,7 +89,7 @@
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.net\/moodle-app-privacy\/",
-    "notificoncolor": "#f98012",
+    "notificoncolor": "#e35b1b",
     "enableanalytics": false,
     "enableonboarding": true,
     "forceColorScheme": "",
